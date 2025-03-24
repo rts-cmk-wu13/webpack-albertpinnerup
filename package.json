@@ -1,0 +1,26 @@
+{
+  "name": "webpack-albertpinnerup",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HeRemrqG)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rts-cmk-wu13/webpack-albertpinnerup.git"
+  },
+  "keywords": [],
+  "author": "Albert Pinnerup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rts-cmk-wu13/webpack-albertpinnerup/issues"
+  },
+  "homepage": "https://github.com/rts-cmk-wu13/webpack-albertpinnerup#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
