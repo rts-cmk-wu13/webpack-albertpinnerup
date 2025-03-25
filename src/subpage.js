@@ -9,7 +9,7 @@ function component () {
     
 
     divElm.innerHTML = `
-        <p>hello, webpack!</p>
+        <p>hello, subpage!</p>
         <img src="${logo}" alt="">
     `
 
